@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+    overflow-x: hidden;
+    
+}
+
+#center {
+  background-image: url('./assets/games-valorant-capa.avif');
+  background-size: cover;
+  background-position: center;
+  height: 94vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#game {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+#title-game h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#game button {
+  background-color:rgb(194, 86, 122);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}

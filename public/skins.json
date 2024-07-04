@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "nome": "Vandal Glitchpop",
+    "imgUrl": "./assets/vandal_glitchpop.png",
+    "valor": " 2175 VP",
+    "dataDeLancamento": "03/02/2021",
+    "raridade": "Rare",
+    "type":"vandal"
+  },
+  {
+    "id": 2,
+    "nome": "Vandal Prime",
+    "imgUrl": "./assets/vandal_prime.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "02/06/2020",
+    "raridade": "Epic",
+    "type":"vandal"
+  },
+  {
+    "id": 3,
+    "nome": "Vandal Prelúdio do Caos",
+    "imgUrl": "./assets/vandal_preludio_do_caos.png",
+    "valor": "2175 VP",
+    "dataDeLancamento": "21/06/2021",
+    "raridade": "Legendary",
+    "type":"vandal"
+  },
+  {
+    "id": 4,
+    "nome": "Vandal Saqueadora",
+    "imgUrl": "./assets/vandal_saqueadora.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "03/09/2020",
+    "raridade": "Epic",
+    "type":"vandal"
+  },
+  {
+    "id": 5,
+    "nome": "Vandal Champions 2021",
+    "imgUrl": "./assets/vandal_champions_2021.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "24/09/2021",
+    "raridade": "Rare",
+    "type":"vandal"
+  },
+  {
+    "id": 6,
+    "nome": "Vandal Soberania",
+    "imgUrl": "./assets/vandal_soberania.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "27/05/2021",
+    "raridade": "Legendary",
+    "type":"vandal"
+  },
+  {
+    "id": 7,
+    "nome": "Vandal Dragão Flamejante",
+    "imgUrl": "./assets/vandal_dragao_flamejante.png",
+    "valor": "2475 VP",
+    "dataDeLancamento": "10/07/2020",
+    "raridade": "Rare",
+    "type":"vandal"
+    
+  },
+  {
+    "id": 8,
+    "nome": "Vandal Ion",
+    "imgUrl": "./assets/vandal_ion.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "18/10/2022",
+    "raridade": "Rare",
+    "type":"vandal"
+  },
+    {
+      "id": 9,
+      "nome": "Phantom Entertainment",
+      "imgUrl": "./assets/phantom_radiant_entertainment_system.png",
+      "valor": "2975 VP",
+      "dataDeLancamento": "25/05/2023",
+      "raridade": "Rare",
+      "type": "phantom"
+    },
+    {
+      "id": 10,
+      "nome": "Phantom Protocolo 781-A",
+      "imgUrl": "./assets/phantom_protocolo_781-A.png",
+      "valor": "2475 VP",
+      "dataDeLancamento": "06/07/2020",
+      "raridade": "Epic",
+      "type": "phantom"
+    },
+    {
+      "id": 11,
+      "nome": "Phantom Champions 2022",
+      "imgUrl": "./assets/phantom_champions_2022.png",
+      "valor": "2675 VP",
+      "dataDeLancamento": "23/08/2022",
+      "raridade": "Rare",
+      "type": "phantom"
+    },
+    {
+      "id": 12,
+      "nome": "Phantom Spectrum",
+      "imgUrl": "./assets/phantom_spectrum.png",
+      "valor": "2675 VP",
+      "dataDeLancamento": "08/09/2021",
+      "raridade": "Legendary",
+      "type": "phantom"
+    },
+    {
+      "id": 13,
+      "nome": "Phantom BlastX",
+      "imgUrl": "./assets/phantom_blastx.png",
+      "valor": "2175 VP",
+      "dataDeLancamento": "13/12/2020",
+      "raridade": "Rare",
+      "type": "phantom"
+    },
+    {
+      "id": 14,
+      "nome": "Phantom ChronoVoid",
+      "imgUrl": "./assets/phantom_chronovoid.png",
+      "valor": "2175 VP",
+      "dataDeLancamento": "13/12/2020",
+      "raridade": "Legendary",
+      "type": "phantom"
+    },
+    {
+      "id": 15,
+      "nome": "Phantom RGX 11z Pro",
+      "imgUrl": "./assets/phantom_rgx_11z_pro.png",
+      "valor": "2175 VP",
+      "dataDeLancamento": "23/10/2021",
+      "raridade": "Rare",
+      "type": "phantom"
+    },
+    {
+      "id": 16,
+      "nome": "Phantom Ruina",
+      "imgUrl": "./assets/phantom_ruina.png",
+      "valor": "2175 VP",
+      "dataDeLancamento": "07/07/2021",
+      "raridade": "Rare",
+      "type": "phantom"
+    },
+    {
+    "id": 17,
+    "nome": "Spectre Sem Limites",
+    "imgUrl": "./assets/spectresemlimites.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "21/06/2022",
+    "raridade": "Rare",
+    "type": "spectre"
+    },
+    {
+    "id": 18,
+    "nome": "Spectre Magepunk",
+    "imgUrl": "./assets/spectremagepunk.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "08/06/2021",
+    "raridade": "Epic",
+    "type": "spectre"
+    },
+    {
+    "id": 19,
+    "nome": "Spectre Kuronami",
+    "imgUrl": "./assets/spectrekuronami.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "22/03/2022",
+    "raridade": "Legendary",
+    "type": "spectre"
+    },
+    {
+    "id": 20,
+    "nome": "Spectre Horizon",
+    "imgUrl": "./assets/spectrehorizon.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "07/06/2022",
+    "raridade": "Rare",
+    "type": "spectre"
+    },
+    {
+    "id": 21,
+    "nome": "Spectre Desértica",
+    "imgUrl": "./assets/spectredesertica.png",
+    "valor": "1000 VP",
+    "dataDeLancamento": "08/10/2023",
+    "raridade": "Legendary",
+    "type": "spectre"
+    },
+    {
+    "id": 22,
+    "nome": "Spectre Netuno",
+    "imgUrl": "./assets/spectrenetuno.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "24/05/2022",
+    "raridade": "Rare",
+    "type": "spectre"
+    },
+    {
+    "id": 23,
+    "nome": "Spectre Mercado Cinza",
+    "imgUrl": "./assets/spectremercadocinza.png",
+    "valor": "1775 VP",
+    "dataDeLancamento": "27/06/2023",
+    "raridade": "Rare",
+    "type": "spectre"
+    },
+    {
+    "id": 24,
+    "nome": "Spectre Singularity",
+    "imgUrl": "./assets/spectresingularity.png",
+    "valor": "2175 VP",
+    "dataDeLancamento": "20/06/2020",
+    "raridade": "Epic",
+    "type": "spectre"
+    },
+    {
+      "id": 25,
+      "nome": " Sheriff Ion ",
+      "imgUrl": "/assets/sheriff/ion.png",
+      "valor": "1775 VP",
+      "dataDeLancamento": "2021/11/05",
+      "raridade": "Rare",
+      "type": "sheriff"
+    },
+    {
+      "id": 26,
+      "nome": "Sheriff Nebulosa",
+      "imgUrl": "/assets/sheriff/nebulosa.png",
+      "valor": "2377 VP",
+      "dataDeLancamento": "2022/02/04",
+      "raridade": "Lengadary",
+      "type": "sheriff"
+    },
+    {
+      "id": 27,
+      "nome": "Sheriff Magepunk",
+      "imgUrl": "/assets/sheriff/magepunk.png",
+      "valor": "1775 VP",
+      "dataDeLancamento": "2020/08/04",
+      "raridade": "Epic",
+      "type": "sheriff"
+    },
+    {
+      "id": 28,
+      "nome": "Sheriff Neo Oeste",
+      "imgUrl": "/assets/sheriff/celestial.png",
+      "valor": "1775 VP",
+      "dataDeLancamento": "2020/08/04",
+      "raridade": "Epic",
+      "type": "sheriff"
+    },
+    {
+      "id": 29,
+      "nome": "Sheriff Arcane ",
+      "imgUrl": "/assets/sheriff/arcane.png",
+      "valor": "2377 VP",
+      "dataDeLancamento": "2020/08/04",
+      "raridade": "Rare",
+      "type": "sheriff"
+    },
+    {
+      "id": 30,
+      "nome": "Sheriff Saqueador",
+      "imgUrl": "/assets/sheriff/saqueador.png",
+      "valor": "1775 VP",
+      "dataDeLancamento": "2023/03/04",
+      "raridade": "Epic",
+      "type": "sheriff"
+    },
+    {
+      "id": 31,
+      "nome": "Sheriff Singularidade",
+      "imgUrl": "/assets/sheriff/spline.png",
+      "valor": "1775 VP",
+      "dataDeLancamento": "2020/08/04",
+      "raridade": "Epic",
+      "type": "sheriff"
+    },
+    {
+      "id": 32,
+      "nome": "Sheriff Onda Retrô",
+      "imgUrl": "/assets/sheriff/ondaretro.png",
+      "valor": "1275 VP",
+      "dataDeLancamento": "2020/08/04",
+      "raridade": "Rare",
+      "type": "sheriff"
+    }
+    
+  ]
+  
