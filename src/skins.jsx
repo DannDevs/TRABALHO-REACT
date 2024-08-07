@@ -57,7 +57,6 @@ function Skins() {
           </div>
         ))}
       </div>
-      <div>  <Footer /> </div>
     </>
   );
 }
